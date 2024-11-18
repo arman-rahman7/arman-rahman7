@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on github.
-- 📫 How to reach me email: armarahman377@gmail.com
+- 📫 How to reach me email: armanrahmanbd7@gmail.com
 - ⚡ Fun fact: I am a experienced web developer based on WordPress.
 
 <!---
